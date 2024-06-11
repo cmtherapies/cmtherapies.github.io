@@ -16,8 +16,8 @@ a {
 }
 
 .header {
-  width: 90%!important;
-  margin-left: 5%!important;
+  margin-left: auto! important;
+  padding-left:auto! important;
 }
 
 .header h1 {
@@ -137,7 +137,7 @@ img {
 
 .photo{
   display: inline-block;
-position: relative;
+  position: relative;
 }
 
 .third button{
