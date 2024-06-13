@@ -60,7 +60,7 @@ a {
 
 .line {
  padding: 4%;
- border-left: 2px solid gray;
+ border-left: 2px solid D36F6F;
  margin-left: 30%;
  text-align: left;
 }
@@ -79,7 +79,12 @@ img {
   width: 100%;
 }
 
-.text p{
+
+.text p .small {
+  font-size: 12px!important;
+}
+
+p{
   font-size: 18px;
 }
 
@@ -92,8 +97,6 @@ img {
 
 .text {
   border-left: 3px solid #D36F6F;
-  padding-left: 5%;
-  margin-left: 5%;
 }
 
 .photo{
